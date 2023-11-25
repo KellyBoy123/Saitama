@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+	background-image:url("Death_Blow.jpg");
+	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: cover;
+}
+p{
+	border: 2px solid blue;
+	padding: 30px;
+}
+
+p {border: 4px dashed blue;}
+</style>
+
+</head>
+<body>
+<title>All about saitima</title>
+<h1>Saitima is a anime and also a name for the strongest hero in the anime.</h1>
+<h2>In saitima, basically, sombody named saitima saw a crab moster, and he said he was looking for a boy with a weird face. When the crab moster was about to destroy the boy, saitima jumped in and saved that boy. And by the way, that time saitima had hair.</h2>
+<p><a href="#JPGE">Jump to Chapter 4</a></p>
+<p><a href="#JPG"> Jump to Chapter 10</a></p>
+
+<p><b> hi hi hi hi </b></p>
+
+<p><strong>GRR!!!</strong></p>
+
+<p><i> hello hhello? Are you there??? Oh my gosh!! </i></p>
+
+<p><em>.... Hello? is anyone here?? </em></p>
+
+<p><small> Hello! can you see me? </small></p>
+
+<p><del>asdfjkl;asdfjkl;asdfjkl;</del></p>
+
+<p><ins> Hello Hello </ins></p>
+
+<p><sub>Sup?</p></sub>
+
+<sup><p>Hello...</p></sup>
+
+</body>
+</html>
